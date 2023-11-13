@@ -1,0 +1,73 @@
+
+#botonConLogo {
+    background-image: url('imagenes del proyecto/McFDSS.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 50px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+
+  #botonConLogo1 {
+    background-image: url('imagenes del proyecto/dominosFDSS.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 50px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  #botonConLogo2 {
+    background-image: url('imagenes del proyecto/starbucksFDSS.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 50px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  #botonConLogo3 {
+    background-image: url('imagenes del proyecto/drogasFDSS.jpg');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 50px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+
+  #botonConLogo4 {
+    background-image: url('imagenes del proyecto/cruzFDSS.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 60px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  #botonConLogo5 {
+    background-image: url('imagenes del proyecto/jorgeFDSS.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 100px 100px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+
+ .c1{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-align: left;
+       background-image: url('imagenes del proyecto/domiFDSS.gif');
+       background: size 50px;; /* Para que el GIF se ajuste al tamaño de la ventana del navegador */
+       background-repeat: no-repeat; /* Para evitar la repetición del GIF */
+       background-attachment: scroll;
+       background-attachment: scroll;
+       animation: movimientoFondo 10s linear infinite;
+     }
+     
+     @keyframes movimientoFondo {
+       from {
+         background-position: 0 0;
+       }
+       to {
+         background-position: 100% 0;
+       }
+     }
+ 
+  
+ 
+ .c2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+ }

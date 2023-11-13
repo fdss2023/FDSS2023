@@ -1,0 +1,28 @@
+#mision {
+text-align: center;
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 16px;
+}
+
+body {
+    background-image: url("imagenes del proyecto/logoMyVretro.png ");
+    background-size: 200px; /* Esto ajusta la imagen para que cubra todo el fondo */
+    background-repeat: repeat; /* Evita que la imagen se repita */
+    background-position: 400px center;
+    background-size: 200px 200px;
+
+    
+  }
+.boton {
+    text-align: center;
+    
+    justify-content: center;      
+    align-items: center;    
+    
+}   
+.Objetivos{
+font-size: 25px;
+ color: #56070C;
+}

@@ -1,0 +1,31 @@
+button{
+text-align: end;
+color: orange;
+
+}
+p{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.boton{
+    text-align: center;
+    
+    justify-content: center;      
+    align-items: center; 
+}
+#botonConLogo {
+    background-image: url('imagenes del proyecto/FDSSinsta.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 50px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  a{
+font-style: oblique;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:red;
+  }

@@ -1,0 +1,8 @@
+#botonConLogo {
+    background-image: url('imagenes del proyecto/FDSSinsta.png');
+    background-size: cover; /* Esto ajustará el tamaño de la imagen al botón */
+    padding: 50px 50px; /* Ajusta el relleno según tus necesidades */
+    border: none; /* Para eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  

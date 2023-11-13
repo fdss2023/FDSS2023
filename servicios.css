@@ -1,0 +1,39 @@
+
+#miBoton {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#miBoton1 {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+body {
+    background-image: url('imagenes del proyecto/logosservicio.jpeg');
+    background-size: 500px 500px; /* Esto ajustará la imagen para que cubra toda la pantalla */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    
+
+}
+.v1{
+    text-align: center;
+    
+    justify-content: center;      
+    align-items: center ;    
+    
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

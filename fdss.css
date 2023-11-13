@@ -1,0 +1,31 @@
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #menu li {
+    display: inline-block;
+    margin-right: 20px; /* Espacio entre elementos del menú */
+  }
+  
+  #menu li a {
+    text-decoration: none;
+    color: black; /* Color del texto del enlace */
+  }
+  
+  h1{
+    text-align: center;
+
+  }
+  body{
+  background: url("imagenes del proyecto/gif fondo.gif");
+  background-size: cover; /* Esto ajusta la imagen para que cubra todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+
+  }
+
+
+  
+
+  
